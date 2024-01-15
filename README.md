@@ -18,8 +18,7 @@
 * [ESP32Servo](https://github.com/jkb-git/ESP32Servo)
 * [PNGdec](https://github.com/bitbank2/PNGdec)
 * [PS4-esp32](https://github.com/aed3/PS4-esp32)
-* [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
-** Please review the example [User_Setup.h](/TFT_eSPI_User_Setups/User_Setup.h) file
+* [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Please review the example [User_Setup.h](/TFT_eSPI_User_Setups/User_Setup.h) file
 
 ### Code from these libraries is embedded in the herculitoControl sourceforge
 * [RingBufCPP](https://github.com/wizard97/Embedded_RingBuf_CPP)

@@ -1,1 +1,0 @@
-Copy to User_Setup.h C:\Users\<user>\Documents\Arduino\libraries\TFT_eSPI\User_Setup.h

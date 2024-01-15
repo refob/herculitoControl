@@ -20,7 +20,7 @@
 * [PS4-esp32](https://github.com/aed3/PS4-esp32)
 * [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Please review the example [User_Setup.h](/TFT_eSPI_User_Setups/User_Setup.h) file
 
-### Code from these libraries is embedded in the herculitoControl sourceforge
+### Code from these libraries is embedded in the herculitoControl source
 * [RingBufCPP](https://github.com/wizard97/Embedded_RingBuf_CPP)
 * [GCodeParser](https://github.com/tgolla/GCodeParser)
 * [SpeedyStepper](https://github.com/Stan-Reifel/SpeedyStepper)

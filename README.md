@@ -14,10 +14,10 @@
  complete text file in one step to the serial link. This is the way how I created the example
  movie.
  
-# herculitoContrl uses these external libraries:
+### herculitoContrl uses these external libraries:
 * libraries
 
-# References
+### References
 * [Intersection of two circles](https://paulbourke.net/geometry/circlesphere/)
 * [Intersection of a Line and a Sphere (or circle)](https://paulbourke.net/geometry/circlesphere/)
 * [G-code - RepRap](https://www.reprap.org/wiki/G-code)

@@ -4,7 +4,7 @@
  
 * The GCode syntax that herculitoControl understands is documented in [herculitoControl GCode V1.0.pdf](https://github.com/refob/herculitoControl/blob/main/doc/herculitoControl%20GCode%20V1.0.pdf).
 
-* The remote control assignment is described in [herculitoControl GCode V1.0.pdf](https://github.com/refob/herculitoControl/blob/main/doc/Sony%20Dualshock%204%20controller%20help.pdf).
+* The remote control assignment is described in [Sony Dualshock controller](https://github.com/refob/herculitoControl/blob/main/doc/Sony%20Dualshock%204%20controller%20help.pdf).
 
 # References
 * [Intersection of two circles](https://paulbourke.net/geometry/circlesphere/)

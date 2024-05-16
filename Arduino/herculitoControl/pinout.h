@@ -27,7 +27,8 @@
 #define BUZZER_PIN        23 // Limit Z-Axis+
 #define LED_PIN            2 // Abort - connected to blue LED
 #define NEO_PIN           32
-#define Free_PIN           4
+#define CTRL1              4 // Hold
+#define CTRL2			  12 // was X_ENABLE_PIN
 
 // TFT_* defined in "...\Arduino\libraries\TFT_eSPI-master\User_Setup"
 #define TFT_MOSI          21 
